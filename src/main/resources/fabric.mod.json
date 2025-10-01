@@ -3,15 +3,15 @@
 	"id": "hurtrandomgive",
 	"version": "${version}",
 	"name": "HurtRandomGive",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "受到伤害物品刷新成双倍随即物品@浓硫酸酸不酸",
 	"authors": [
-		"Me!"
+		"浓硫酸酸不酸"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/hurtrandomgive/icon.png",
 	"environment": "*",
 	"entrypoints": {
